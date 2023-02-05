@@ -10,7 +10,7 @@ public class Calculator implements ActionListener {
   private JButton button0, button1, button2, button3, button4, button5, button6, button7, button8, button9, buttonPoint;
   private JButton buttonPlus, buttonMinus, buttonMultiply, buttonDivide, buttonEqual;
   private double firstNumber, secondNumber, result;
-  private String operator;F
+  private String operator;
 
   public Calculator() {
     JFrame frame = new JFrame("Calculator");
